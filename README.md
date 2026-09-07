@@ -13,7 +13,7 @@
     <a href="https://amirabasi.info/AmirAbasi.pdf"><img src="https://img.shields.io/badge/Resume-PDF-b91c1c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   </p>
 
-  <p><em>I build software that feels clear — from the first screen to a dependable launch.</em></p>
+  <p><em>I build software that feels clear from the first screen to a dependable launch.</em></p>
 
 </div>
 
